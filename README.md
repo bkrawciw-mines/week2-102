@@ -1,2 +1,3 @@
 # week2-102
-In-class git workshop
+Benjamin Krawciw
+stuff
